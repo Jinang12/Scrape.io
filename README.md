@@ -119,7 +119,3 @@ service cloud.firestore {
 - Group/ungroup, duplicate, send to back/front
 - Shape styles and color palettes
 - Collaboration and presence
-
-## License
-
-Add your preferred license here (e.g., MIT). If this is a private project, state your terms or “All rights reserved.”
